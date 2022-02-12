@@ -1,0 +1,88 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Angular",
+      "description": "Live Classes are available with lifetime access",
+      "rating": 4.8,
+      "img": "https://th.bing.com/th/id/OIP.P7x-_0XfQz6CVmMY_QAv0wHaDr?w=335&h=173&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "id": 2,
+      "title": "Node Js",
+      "description": "Live Classes are available with lifetime access",
+      "rating": 5,
+      "img": "https://th.bing.com/th/id/OIP.1kdA13MUYkVnFmbnoO3dHwHaEV?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 3,
+      "title": "Mongo DB",
+      "description": "Live Classes are available with lifetime access",
+      "rating": 4.3,
+      "img": "https://i.ytimg.com/vi/WDJUkysvpjc/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Express Js",
+      "description": "Express js Live Classes are available with lifetime access",
+      "rating": 4,
+      "img": "https://th.bing.com/th/id/OIP.C_fpD1wS-LugVknSn1VKcQHaDs?w=333&h=174&c=7&r=0&o=5&pid=1.7"
+    }
+  ],
+  "enquiries": [
+    {
+      "firstName": "Anjani",
+      "lastName": "Priyanka",
+      "mailId": "anjaanipriyanka.cse@gmail.com",
+      "courseId": "1",
+      "summary": "Angular certification details",
+      "description": "testt",
+      "id": 1
+    },
+    {
+      "firstName": "Anjani",
+      "lastName": "Yenumula",
+      "mailId": "anjanikiran@gmail.com",
+      "courseId": "2",
+      "summary": "Node Js Certificaion details",
+      "description": "Want to know fee and batch timings",
+      "id": 2
+    },
+    {
+      "firstName": "Anjani",
+      "lastName": "Yenumula",
+      "mailId": "anjaanipriyanka.cse@gmail.com",
+      "courseId": "2",
+      "summary": "Node Js Certificaion details",
+      "description": "sdfsff",
+      "id": 3
+    },
+    {
+      "firstName": "Kavya",
+      "lastName": "Peruvaje",
+      "mailId": "kavya.peruvaje@gmail.com",
+      "courseId": "1",
+      "summary": "Angular Topics",
+      "description": "Need some clarity on course content",
+      "id": 4
+    },
+    {
+      "firstName": "Kavya Rao",
+      "lastName": "Peruvaje",
+      "mailId": "kavya.rao@gmail.com",
+      "courseId": "1",
+      "summary": "Angular Topics",
+      "description": "Content not clear",
+      "id": 5
+    },
+    {
+      "firstName": "xfdgg",
+      "lastName": "sfdgdg",
+      "mailId": "dsfdgdg",
+      "courseId": "1",
+      "summary": "dgfgfg",
+      "description": "dgdfgfg",
+      "id": 6
+    }
+  ]
+}
