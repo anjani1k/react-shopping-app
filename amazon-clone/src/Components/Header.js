@@ -10,7 +10,7 @@ class Header extends Component {
           <Container fluid>
             <Navbar.Brand href="#home">
               <span>Edureka</span>
-              <img src="%PUBLIC_URL%/logo192.png" alt="" />
+              <img src="../../public/amazon-logo.PNG" alt="" />
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
